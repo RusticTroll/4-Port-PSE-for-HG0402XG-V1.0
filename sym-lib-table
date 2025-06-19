@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "power_but_52v")(type "KiCad")(uri "${KIPRJMOD}/power_but_52v.kicad_sym")(options "")(descr ""))
+  (lib (name "FDMC3612")(type "KiCad")(uri "${KIPRJMOD}/FDMC3612/2025-05-28_23-24-22.kicad_sym")(options "")(descr ""))
+  (lib (name "MP3924GU-Z")(type "KiCad")(uri "${KIPRJMOD}/MP3924GU-Z/2025-06-02_21-58-45.kicad_sym")(options "")(descr ""))
+)
