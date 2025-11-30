@@ -3,4 +3,7 @@
   (lib (name "FDMC3612")(type "KiCad")(uri "${KIPRJMOD}/Symbols/FDMC3612/footprints.pretty")(options "")(descr ""))
   (lib (name "MP3924GU-Z")(type "KiCad")(uri "${KIPRJMOD}/Symbols/MP3924GU-Z/footprints.pretty")(options "")(descr ""))
   (lib (name "ThickSilk")(type "KiCad")(uri "${KIPRJMOD}/Symbols/ThickSilk.pretty")(options "")(descr ""))
+  (lib (name "ESP32-C6-WROOM-1")(type "KiCad")(uri "${KIPRJMOD}/Symbols/ESP32-C6-WROOM-1/footprints.pretty")(options "")(descr ""))
+  (lib (name "GT-USB-7004")(type "KiCad")(uri "${KIPRJMOD}/Symbols/GT-USB-7004/footprints.pretty")(options "")(descr ""))
+  (lib (name "TS-1088-AR02016")(type "KiCad")(uri "${KIPRJMOD}/Symbols/TS-1088-AR02016/footprints.pretty")(options "")(descr ""))
 )

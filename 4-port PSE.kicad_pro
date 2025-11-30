@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.254,
-          "width": 0.127
+          "height": 0.8128,
+          "width": 0.8128
         },
         "silk_line_width": 0.1524,
         "silk_text_italic": false,
@@ -507,7 +507,16 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": "USB_D-"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "USB_D+"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
